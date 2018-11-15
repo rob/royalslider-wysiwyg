@@ -17,7 +17,7 @@
  * Plugin URI:        https://github.com/rob/royalslider-wysiwyg
  * GitHub Plugin URI: https://github.com/rob/royalslider-wysiwyg
  * Description:       Change the "description" field of RoyalSlider slides into a WYSIWYG field.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Rob Gabaree
  * Author URI:        https://github.com/rob/royalslider-wysiwyg
  * License:           GPLv3
@@ -36,7 +36,7 @@ if ( ! defined( 'WPINC' ) ) {
  * Start at version 1.0.0 and use SemVer - https://semver.org
  * Rename this for your plugin and update it as you release new versions.
  */
-define( 'ROYALSLIDER_WYSIWYG_VERSION', '1.0.0' );
+define( 'ROYALSLIDER_WYSIWYG_VERSION', '1.0.1' );
 
 /**
  * The code that runs during plugin activation.
