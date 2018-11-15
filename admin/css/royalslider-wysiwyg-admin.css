@@ -1,0 +1,8 @@
+html .jqte {
+	margin: 10px 0;
+	border-radius: 0;
+	border-color: #ddd;
+	        box-shadow: none;
+	   -moz-box-shadow: none;
+	-webkit-box-shadow: none;
+}
