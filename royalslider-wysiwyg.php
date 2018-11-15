@@ -15,6 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       RoyalSlider WYSIWYG Field Add-On
  * Plugin URI:        https://github.com/rob/royalslider-wysiwyg
+ * GitHub Plugin URI: https://github.com/rob/royalslider-wysiwyg
  * Description:       Change the "description" field of RoyalSlider slides into a WYSIWYG field.
  * Version:           1.0.0
  * Author:            Rob Gabaree
